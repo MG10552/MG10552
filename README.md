@@ -19,7 +19,6 @@
 
 
 <h3 align="center">Public stats snippet</h3>
-<p>&nbsp;</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mg10552" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mg10552&show_icons=true&locale=en" alt="mg10552" /></p> -->
@@ -28,7 +27,6 @@
 
 
 <h3 align="center">Languages and tools</h3>
-<p>&nbsp;</p>
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
