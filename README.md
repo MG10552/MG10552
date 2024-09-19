@@ -1,11 +1,3 @@
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
 <h1 align="center">Welcome, this is MG's public profile TEST!</h1>
 <h3 align="center">Master Software Engineering student in Computer Games Development and Space Technologies.</h3>
 
@@ -35,6 +27,6 @@
 <p>&nbsp;</p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mg10552&show_icons=true&locale=en" alt="mg10552" /></p> -->
 
-<p><img class="center" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mg10552" /></p>
+<p><center><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mg10552" /></center></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mg10552&theme=dark" alt="mg10552" /></p> -->
