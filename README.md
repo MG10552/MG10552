@@ -1,14 +1,19 @@
 <h1 align="center">Welcome / おはようございます / Witam / Здравствуйте</h1>
 
-
+<div align="center">
 <img align="left" src="assets/PJATK_logo_graphic.jpg" alt="PJATK" width="200" height="130"/>
-<h3 align="center">You are currently viewing Master Software Engineering in Computer Games Development and Space Technologies student's public profile.</h3>
+<p></p>
+<h3 align="center" style="display: flex; justify-content: space-evenly; padding-top: 25px;"><b>You are currently viewing Master Software Engineering student's public profile.</b></h3>
+<h4 align="center" style="display: flex; justify-content: space-evenly; padding-top: 0px;">「 Computer Games Development, Human-computer Interaction and Space Technologies 」</h4>
+<br/>
+</div>
+
 <h3 align="center"> How can I help? </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="mg10552" /> </p>
+<p align="center"> <img src="assets/virtuosa-arknights_ropes.png" width="480" height="480"> </p>
 
-
-- 🌱 I’m currently learning: **niche game engines**
+<!-- - 🌱 I’m currently learning: **niche game engines**
 
 - 👨‍💻 All of my projects are available at: [right here, but later on]
 
@@ -27,7 +32,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mg10552" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mg10552&show_icons=true&locale=en" alt="mg10552" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mg10552&theme=dark" alt="mg10552" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mg10552&theme=dark" alt="mg10552" /></p> 
 <p>&nbsp;</p>
 
 
@@ -69,4 +74,4 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
