@@ -2,7 +2,7 @@
 
 <div align="center">
 <img align="left" src="assets/PJATK_logo_graphic.jpg" alt="PJATK" width="200" height="130"/>
-<p></p>
+<p>&nbsp;</p>
 <h3 align="center" style="display: flex; justify-content: space-evenly; padding-top: 25px;"><b>You are currently viewing Master Software Engineering student's public profile.</b></h3>
 <h4 align="center" style="display: flex; justify-content: space-evenly; padding-top: 0px;">「 Computer Games Development, Human-computer Interaction and Space Technologies 」</h4>
 <br/><br/>
@@ -11,7 +11,56 @@
 <h3 align="center"> How can I help? </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
 
-<p align="center"> <img src="assets/virtuosa-arknights_ropes.png" width="320" height="320"> </p>
+<div align="center">
+    <div align="center" style="float: left; width: 33.33%;">
+        <div align="center"> 
+            <p align="center"> Languages </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Frontend </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Backend </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Mobile </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> AI & ML </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Database </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Devops </p>
+            <p align="center"> </p> </div>
+    </div>
+    <div align="center" style="float: left; width: 33.33%;">
+        <p align="center"> <img src="assets/virtuosa-arknights_ropes.png" width="320" height="320"> </p>
+    </div>
+    <div align="center" style="float: left; width: 33.33%;">
+        <div align="center"> 
+            <p align="center"> Backend as a Service </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Framework </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Testing </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Software </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Game Engines </p>
+            <p align="center"> </p> </div>
+        <div align="center"> 
+            <p align="center"> Other (*?) </p>
+            <p align="center"> 
+                <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+                <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> </p> </div>
+    </div>
+</div>
 
 
 <!-- - ⚙️ OMs：  ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) 
