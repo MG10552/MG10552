@@ -1,9 +1,14 @@
-<h1 align="center">Welcome, this is MG's public profile TEST!</h1>
-<h3 align="center">Master Software Engineering student in Computer Games Development and Space Technologies.</h3>
+<h1 align="center">Welcome / おはようございます / Witam / Здравствуйте</h1>
+
+
+<img align="left" src="assets/PJATK_logo_graphic.jpg" alt="PJATK" width="200" height="130"/>
+<h3 align="center">You are currently viewing Master Software Engineering in Computer Games Development and Space Technologies student's public profile.</h3>
+<h3 align="center"> How can I help? </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="mg10552" /> </p>
 
-- 🌱 I’m currently learning: **niche game engines like Ursina.**
+
+- 🌱 I’m currently learning: **niche game engines**
 
 - 👨‍💻 All of my projects are available at: [right here, but later on]
 
@@ -13,7 +18,7 @@
 
 - 📄 About my experiences [TODO](TODO)
 
-- ⚡ Fun fact: **World is a circus and most people are clowns. Honk! Honk!**
+- ⚡ Fun fact: **Everything exists due to sheer kinetic force of the past. We can't create anything new that is good, because merit is dead and compentency crysis reigns supreme in the name of the ideology that in the end will ruin all.**
 
 <p>&nbsp;</p>
 
