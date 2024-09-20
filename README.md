@@ -5,24 +5,36 @@
 <p></p>
 <h3 align="center" style="display: flex; justify-content: space-evenly; padding-top: 25px;"><b>You are currently viewing Master Software Engineering student's public profile.</b></h3>
 <h4 align="center" style="display: flex; justify-content: space-evenly; padding-top: 0px;">「 Computer Games Development, Human-computer Interaction and Space Technologies 」</h4>
-<br/>
+<br/><br/>
 </div>
 
 <h3 align="center"> How can I help? </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
 
-<p align="center"> <img src="assets/virtuosa-arknights_ropes.png" width="480" height="480"> </p>
+<p align="center"> <img src="assets/virtuosa-arknights_ropes.png" width="320" height="320"> </p>
 
-<!-- - 🌱 I’m currently learning: **niche game engines**
 
+<!-- - ⚙️ OMs：  ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) 
+            ![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell) 
+            ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux) 
+            ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
+
+
+<!--<a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a>
+
+ - 🌱 I’m currently learning: **niche game engines**
 - 👨‍💻 All of my projects are available at: [right here, but later on]
-
 - 💬 Ask me about: **Game design, privacy, security, complex problem solving.**
-
 - 📫 How to reach me? **You don't. (for now)**
-
 - 📄 About my experiences [TODO](TODO)
-
 - ⚡ Fun fact: **Everything exists due to sheer kinetic force of the past. We can't create anything new that is good, because merit is dead and compentency crysis reigns supreme in the name of the ideology that in the end will ruin all.**
 
 <p>&nbsp;</p>
