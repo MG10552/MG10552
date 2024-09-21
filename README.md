@@ -115,7 +115,8 @@
 </table>
 
 <h3 align="left">Public stats snippet</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mg10552" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="mg10552" />
+
 
 <!--
 <p> </p>
