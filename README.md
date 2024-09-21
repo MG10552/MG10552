@@ -127,7 +127,7 @@
         </td>
         <!-- MIDDLE -->
         <td align="center" width="46%" style="vertical-align:top">
-            <p align="left"><pre>I've made 🏆<b>1680</b> contributions across 📜<b>33</b> public repositories and 🔑<b>160</b> private repositories in the past year.</pre></p>
+            <p align="left"><pre style="white-space: pre-wrap">I've made 🏆<b>1680</b> contributions across 📜<b>33</b> public repositories and 🔑<b>160</b> private repositories in the past year.</pre></p>
         </td>
         <!-- RIGHT -->
         <td align="center" width="27%">
