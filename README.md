@@ -67,7 +67,7 @@
                     <img src="https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=fff" alt="Google Docs Badge"></p>           
         </td>
         <!-- MIDDLE -->
-        <td align="center" width="46%"> 
+        <td align="top" width="46%"> 
                 <p align="center"> <img src="assets/virtuosa-arknights_ropes.png" style="object-fit: contain;"></p>    
         </td>
         <!-- RIGHT -->
@@ -131,7 +131,7 @@
  > 
    -->  
 <!-- </div> -->
-<!-->
+<!--
 - 🌱 I’m currently learning: **niche game engines**
 - 👨‍💻 All of my projects are available at: [right here, but later on]
 - 💬 Ask me about: **Game design, privacy, security, complex problem solving.**
@@ -140,7 +140,7 @@
 - ⚡ Fun fact: **Everything exists due to sheer kinetic force of the past. We can't create anything new that is good, because merit is dead and compentency crysis reigns supreme in the name of the ideology that in the end will ruin all.**
 
 <p>&nbsp;</p>
-
+-->
 
 <h3 align="center">Public stats snippet</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mg10552" /></p>
