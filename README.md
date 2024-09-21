@@ -123,7 +123,7 @@
     <tr>
         <!-- LEFT -->
         <td align="center" width="27%">            
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="mg10552" />
+            <img align="center" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="mg10552" />
         </td>
         <!-- MIDDLE -->
         <td align="center" width="46%" style="vertical-align:top">
@@ -131,7 +131,7 @@
         </td>
         <!-- RIGHT -->
         <td align="center" width="27%">
-            <p align="center">[ ]</p>
+            <p align="center">[ Under Construction ]</p>
         </td>
     </tr>
 </table>
