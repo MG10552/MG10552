@@ -127,7 +127,7 @@
         </td>
         <!-- MIDDLE -->
         <td align="center" width="46%" style="vertical-align:top">
-            <p align="left" style="object-fit: contain;"><pre>I've made 🏆<b>1680</b> contributions across 📜<b>33</b> public repositories and 🔑<b>160</b> private repositories in the past year.</pre></p>
+            <p align="left"><pre>I've made 🏆<b>1'680</b> contributions across <br>📜<b>33</b> public repositories and <br>🔑<b>160</b> private repositories <br>in the <i>past year<i>.</pre></p>
         </td>
         <!-- RIGHT -->
         <td align="center" width="27%">
