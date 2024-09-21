@@ -131,7 +131,7 @@
         </td>
         <!-- RIGHT -->
         <td align="center" width="27%">
-            <p align="center">[ Under Construction ]</p>
+            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mg10552&theme=dark" alt="mg10552" /></p>
         </td>
     </tr>
 </table>
