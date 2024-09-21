@@ -108,8 +108,8 @@
                 <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="Arduino Badge">
                 <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff" alt="Brave Badge">
                 <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff" alt="4chan Badge">
-                <img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff" alt="Itch.io Badge"> </p>
-                <img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff" alt="Steam Badge">
+                <img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff" alt="Itch.io Badge">
+                <img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff" alt="Steam Badge"> </p>
         </td>
     </tr>
 </table>
