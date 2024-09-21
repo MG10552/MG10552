@@ -1,6 +1,7 @@
 <h1 align="center">Welcome / おはようございます / Witam / Здравствуйте</h1>
 
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" align="right"/>
     <a href="https://gdansk.pja.edu.pl"> 
         <img align="left" src="assets/PJATK_logo_graphic.jpg" alt="PJATK" width="200" height="130"/></a>
     <p>&nbsp;</p>
@@ -8,13 +9,8 @@
     <h4 align="center" style="display: flex; justify-content: space-evenly; padding-top: 0px;">「 Computer Games Development, Human-computer Interaction and Space Technologies 」</h4>
     <br/>
 </div>
-
-<h3 align="center"> How can I help? </h3>
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /></p>
 <!-- END OF TOP SECTION -->
 
-<h3 align="center"> Here are some of the technologies I had contact with so far: </h3>
 <table align="center" style="border: 0;padding: 0;margin: 0;border-spacing: 0; border-collapse: collapse;">
     <tr>
         <!-- LEFT -->
@@ -67,8 +63,10 @@
                     <img src="https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=fff" alt="Google Docs Badge"></p>           
         </td>
         <!-- MIDDLE -->
-        <td align="top" width="46%"> 
-                <p align="center"> <img src="assets/virtuosa-arknights_ropes.png" style="object-fit: contain;"></p>    
+        <td align="center" width="46%" style="vertical-align:top">
+                <h3 align="center"> Here are some of the technologies I had contact with so far </h3>
+                <p align="center"><img src="assets/virtuosa-arknights_ropes.png" style="object-fit: contain;"></p>
+                <p align="center"> 【<i>科学は状態ではなく、プロセスです。お願い、教旨に騙されないでね。機密性と秘密は非常に貴重なものであり、保護する必要があります。好きなように話したり行動したりする自由は最も重要なので、それを使用し、所有してください。</i>】 〜 Some smartass</p>  
         </td>
         <!-- RIGHT -->
         <td align="center" width="27%">
@@ -114,6 +112,9 @@
     </tr>
 </table>
 
+<h3 align="left">Public stats snippet</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mg10552" />
+
 <!--
 <p> </p>
 
@@ -142,8 +143,7 @@
 <p>&nbsp;</p>
 -->
 
-<h3 align="center">Public stats snippet</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mg10552" /></p>
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mg10552&show_icons=true&locale=en" alt="mg10552" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mg10552&theme=dark" alt="mg10552" /></p> 
