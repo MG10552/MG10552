@@ -2,6 +2,7 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" align="right"/>
+    <img src="https://img.shields.io/badge/Open%20for%20hire-YES-green" alt="HireStatus" align="right"/>
     <a href="https://gdansk.pja.edu.pl"> 
         <img align="left" src="assets/PJATK_logo_graphic.jpg" alt="PJATK" width="200" height="130"/></a>
     <p>&nbsp;</p>
@@ -114,26 +115,28 @@
     </tr>
 </table>
 
-<h3 align="left">Public stats snippet</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="mg10552" />
-
-
-<!--
+<p> </p>
+<p> </p>
 <p> </p>
 
-**🐱 My GitHub Data** 
+<table align="center" style="border: 0;padding: 0;margin: 0;border-spacing: 0; border-collapse: collapse;">
+    <tr>
+        <!-- LEFT -->
+        <td align="center" width="27%">            
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="mg10552" />
+        </td>
+        <!-- MIDDLE -->
+        <td align="center" width="46%" style="vertical-align:top">
+            <p align="left"><pre>I've made 🏆<b>1680</b> contributions across 📜<b>33</b> public repositories and 🔑<b>160</b> private repositories in the past year.</pre></p>
+        </td>
+        <!-- RIGHT -->
+        <td align="center" width="27%">
+            <p align="center">[ ]</p>
+        </td>
+    </tr>
+</table>
 
-> 🏆 Contributions in 2024: 1200
- > 
-> 📦 100.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 54 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-   -->  
+     
 <!-- </div> -->
 <!--
 - 🌱 I’m currently learning: **niche game engines**
@@ -142,7 +145,7 @@
 - 📫 How to reach me? **You don't. (for now)**
 - 📄 About my experiences [TODO](TODO)
 - ⚡ Fun fact: **Everything exists due to sheer kinetic force of the past. We can't create anything new that is good, because merit is dead and compentency crysis reigns supreme in the name of the ideology that in the end will ruin all.**
-
+eccentric, info hazard
 <p>&nbsp;</p>
 -->
 
