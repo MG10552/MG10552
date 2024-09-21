@@ -1,76 +1,79 @@
 <h1 align="center">Welcome / おはようございます / Witam / Здравствуйте</h1>
 
 <div align="center">
-<img align="left" src="assets/PJATK_logo_graphic.jpg" alt="PJATK" width="200" height="130"/>
-<p>&nbsp;</p>
-<h3 align="center" style="display: flex; justify-content: space-evenly; padding-top: 25px;"><b>You are currently viewing Master Software Engineering student's public profile.</b></h3>
-<h4 align="center" style="display: flex; justify-content: space-evenly; padding-top: 0px;">「 Computer Games Development, Human-computer Interaction and Space Technologies 」</h4>
-<br/>
+    <a href="https://gdansk.pja.edu.pl"> 
+        <img align="left" src="assets/PJATK_logo_graphic.jpg" alt="PJATK" width="200" height="130"/></a>
+    <p>&nbsp;</p>
+    <h3 align="center" style="display: flex; justify-content: space-evenly; padding-top: 25px;"><b>You are currently viewing Master Software Engineering student's public profile.</b></h3>
+    <h4 align="center" style="display: flex; justify-content: space-evenly; padding-top: 0px;">「 Computer Games Development, Human-computer Interaction and Space Technologies 」</h4>
+    <br/>
 </div>
 
 <h3 align="center"> How can I help? </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /></p>
+<!-- END OF TOP SECTION -->
 
-
-<table>
+<table align="center" style="border: 0;padding: 0;margin: 0;border-spacing: 0; border-collapse: collapse;">
     <tr>
-        <td valign="top" width="30%" border="none">
-        <div align="center">
-    <!-- <div align="center" style="float: left; width: 33.33%;"> -->
-        <div align="center"> 
-            <p align="center"> Languages </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Frontend </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Backend </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Mobile </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> AI & ML </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Database </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Devops </p>
-            <p align="center"> </p> </div>
-    </div> </td>
-        <td valign="top" width="40%"> 
-         <div align="center">
-            <p align="center"> <img src="assets/virtuosa-arknights_ropes.png" width="320" height="320"> </p>
-    </div> </td>
-        <td valign="top" width="30%">
-        <div align="center">
-        <div align="center"> 
-            <p align="center"> Backend as a Service </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Framework </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Testing </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Software </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Game Engines </p>
-            <p align="center"> </p> </div>
-        <div align="center"> 
-            <p align="center"> Other (*?) </p>
-            <p align="center"> 
-                <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-                <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> </p> </div>
-    </div> </td>
+        <!-- LEFT -->
+        <td align="center" width="27%">            
+                <p align="center"> Languages </p>
+                <p align="center"> </p>           
+                <p align="center"> Frontend </p>
+                <p align="center"> </p>          
+                <p align="center"> Backend </p>
+                <p align="center"> </p>          
+                <p align="center"> Mobile </p>
+                <p align="center"> </p>            
+                <p align="center"> AI & ML </p>
+                <p align="center"> </p>           
+                <p align="center"> Database </p>
+                <p align="center"> </p> 
+                <p align="center"> Devops </p>
+                <p align="center"> </p> 
+        </td>
+        <!-- MIDDLE -->
+        <td align="center" width="46%"> 
+                <p align="center"> <img src="assets/virtuosa-arknights_ropes.png" style="object-fit: contain;"></p>    
+        </td>
+        <!-- RIGHT -->
+        <td align="center" width="27%">
+                <p align="center"> Backend as a Service </p>
+                <p align="center"> </p> 
+                <p align="center"> Framework </p>
+                <p align="center"> </p>
+                <p align="center"> Testing </p>
+                <p align="center"> </p> 
+                <p align="center"> Software </p>
+                <p align="center"> </p> 
+                <p align="center"> Game Engines </p>
+                <p align="center"> </p> </div>
+                <p align="center"> Other (*?) </p>
+                <p align="center"> 
+                    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+                    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> </p>
+        </td>
     </tr>
 </table>
 
 
-   
+<!--
+<p> </p>
+
+**🐱 My GitHub Data** 
+
+> 🏆 Contributions in 2024: 1200
+ > 
+> 📦 100.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 54 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+   -->
     
 <!-- </div> -->
  
