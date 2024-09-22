@@ -14,6 +14,7 @@
             <p align="center" valign="top">
                 <img src="https://komarev.com/ghpvc/?username=mg10552&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" align="right"/>
                 <img src="https://img.shields.io/badge/Open%20for%20hire-YES-green" alt="HireStatus" align="left"/>
+                <br>
                 <h3 align="center" style="display: flex; justify-content: space-evenly; padding-top: 25px;"><b>You are currently viewing Master Software Engineering <br>student's public profile.</b></h3> </p>
             <p align="center" valign="top">
                 <h4 align="center" style="display: flex; justify-content: space-evenly; padding-top: 0px;">「 Computer Games Development, Human-computer Interaction and Space Technologies 」</h4> </p>
@@ -77,7 +78,11 @@
                 <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello Badge">
                 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" alt="GitHub Badge">
                 <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff" alt="Discord Badge">
-                <img src="https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=fff" alt="Google Docs Badge"></p>           
+                <img src="https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=fff" alt="Google Docs Badge"> </p>
+            <!--<p align="center">[ DevOPS ]</p>-->
+            <p align="center">
+                <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker Badge">
+                <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes Badge"> </p>            
         </td>
         <!-- MIDDLE -->
         <td align="center" width="46%" style="vertical-align:top">
@@ -108,10 +113,6 @@
                 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL Badge">
                 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" alt="Oracle Badge">
                 <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=fff" alt="Neo4j Badge"> </p>
-            <!--<p align="center">[ DevOPS ]</p>-->
-            <p align="center">
-                <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker Badge">
-                <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes Badge"> </p> 
             <!--<p align="center">[ IDE/Code editors ]</p>-->
             <p align="center">
                 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" alt="Visual Studio Badge">
@@ -138,16 +139,16 @@
     <tr>
         <!-- LEFT -->
         <td align="center" width="27%">            
-            <p align="top" style="object-fit: contain;">
-                <pre> My <b>TOP</b> languages <i>in order</i><br><br><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python Badge"><br><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" alt="C++ Badge"><br><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C# Badge"><br><img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff" alt="Lua Badge"><br><img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff" alt="Scala Badge"></pre> </p>
+            <h3 align="top" style="object-fit: contain;">
+                <pre> My <b>TOP</b> languages <br> (<i>in order</i>) <br><br><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python Badge"><br><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" alt="C++ Badge"><br><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C# Badge"><br><img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff" alt="Lua Badge"><br><img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff" alt="Scala Badge"></pre> </h3>
         </td>
         <!-- MIDDLE -->
         <td align="center" width="46%" style="vertical-align:top">
-            <p align="center" style="object-fit: contain;"><pre>I've made 🏆<b>1'680</b> contributions across <br>📜<b>33</b> public repositories and <br>🔑<b>160</b> private repositories <br>in the <i>past year<i>.</pre></p>
+            <h3 align="center" style="object-fit: contain;"><pre>I've made 🏆<b>1'680</b> contributions across <br>📜<b>33</b> public repositories and <br>🔑<b>160</b> private repositories <br>in the <i>past year<i>.</pre></h3>
         </td>
         <!-- RIGHT -->
         <td align="center" width="27%">
-             <img align="center" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="mg10552" />
+             <h3><img align="center" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="mg10552" /> </h3>
         </td>
     </tr>
 </table>
