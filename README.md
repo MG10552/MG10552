@@ -27,7 +27,7 @@
 <table align="center" style="border: 0;padding: 0;margin: 0;border-spacing: 0; border-collapse: collapse;">
     <!-- HEADER -->
     <tr align="center" width="100%">
-        <h3 align="center"> Here are some of the technologies I had contact with so far </h3> 
+        <h3 align="center"> Here are some of the technologies I had contact with so far! </h3> 
     </tr>
     <tr>
         <!-- LEFT -->
@@ -88,7 +88,7 @@
         <td align="center" width="46%" style="vertical-align:top">
             <p align="center">
                 <img src="assets/virtuosa-arknights_ropes.png" style="object-fit: contain;"></p>
-            <h4 align="center"><i>“In a time of deceit telling the truth is a revolutionary act.”</i> ― George Orwell </h4>
+            <h3 align="center"><i>“In a time of deceit<br/>telling the truth is a revolutionary act.”</i><br/><h4> ― George Orwell </h4></h3>
             <br>
         </td>
         <!-- RIGHT -->
@@ -151,14 +151,47 @@
              <h3><img align="center" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mg10552&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="mg10552" /> </h3>
         </td>
     </tr>
+    <!-- FOOTER -->
+    <tr align="center" width="100%">
+        <td align="center" colspan="3">
+        <img src="assets/Sinscape_modernGL.png" alt="None" style="object-fit: contain;" width="auto" height="500px">
+        <p align="right"> made with ModernGL & Python </td>
+    </tr>
+</table>
+<!-- END OF SECTION #3>
+     
+
+<table align="center" style="border: 0;padding: 0;margin: 0;border-spacing: 0; border-collapse: collapse;">
+    <!-- HEADER -->
+    <tr align="center" width="100%">
+        <h3 align="center"> Q & A </h3> 
+    </tr>
+    <tr>
+        <h3> 1. How to reach me: </h3>
+        <p align="left" style="text-indent: 30px;"> I don't use social media. I prefer to stay private and communicate with people I care about directly. In the same time I understand necessity of online availability to strangers for inquiry and jobs. </p>
+        <p align="center"> That being said here are some ways You can contact me: </p>
+        <p align="center">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff" alt="Gmail Badge">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge">
+            <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff" alt="Discord Badge">
+            <img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff" alt="LINE Badge"> </p>
+    </tr>
 </table>
 
-     
 <!-- </div> -->
 <!--
 
 <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff" alt="Brave Badge">
+<img src="https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff" alt="uBlock Origin Badge">
+<img src="https://img.shields.io/badge/F--Droid-1976D2?logo=fdroid&logoColor=fff" alt="F-Droid Badge">
+
 <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff" alt="4chan Badge">
+<img src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff" alt="Signal Badge">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff" alt="Telegram Badge">
+
+<img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff" alt="YouTube Badge">
+<img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff" alt="Twitch Badge">
+
             
 - 🌱 I’m currently learning: **niche game engines**
 - 👨‍💻 All of my projects are available at: [right here, but later on]
