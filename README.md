@@ -154,7 +154,7 @@
     <!-- FOOTER -->
     <tr align="center" width="100%">
         <td align="center" colspan="3">
-        <img src="assets/Sinscape_modernGL.png" alt="None" style="object-fit: contain;" width="auto" height="500px">
+        <img src="assets/Sinscape_modernGL.png" alt="None" style="object-fit: contain;" width="auto" height="auto">
         <p align="right"> made with ModernGL & Python </td>
     </tr>
 </table>
