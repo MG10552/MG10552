@@ -189,7 +189,7 @@
     <tr>
         <h3> 3. What are some things You can ask me about? 💬 </h3>
         <p align="left" style="text-indent: 30px;">As someone with very long history with computer games I'm always interested in intricate conversations about them. Fantasy books, lore and fictional worlds are also great topic. Since I'm an "old timer" I deeply care about privacy, personal security and annonimity everywhere on the Internet and I know a fair bit of how to protect oneself from all kinds of overreach without going paranoid. I'm familiar with technology and emergent innovations, but I'm not a technophile. I love coming up with ideas in all spheres of life and solving complex problems, through smart use of technology with ethics in mind, even though many of them are currently a pipe dream. </p>
-        <h4 align="center"> <b><i>I'm a person of renaissance and generalist at heart.</b></i> </h4>
+        <h3 align="center"> <b><i>I'm a person of renaissance and generalist at heart.</b></i> </h3>
         <p align="center"> </p>
     </tr>
 </table>
