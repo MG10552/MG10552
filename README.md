@@ -183,33 +183,13 @@
     </tr>
     <tr>
         <h3> 2. What am I currently learning? 🌱 </h3>
-        <p align="left" style="text-indent: 30px;"> Aside from everything that is required as a part of my studies' curriculum I also like learning things in my free time. Currently working on aquiring knowledge in Python adjacent game engines like <img style="vertical-align:middle" src="assets/logos/logo_pygame.png" width="auto" height="40"> and <img style="vertical-align:middle" src="assets/logos/ursina_logo_wireframe.webp" width="40" height="40"> Ursina, <img style="vertical-align:middle" src="assets/logos/logo_openGL.png" width="auto" height="40"> including GLSL, modernGL, shading and rendering pipelines in general. <br/>I'm also slowly getting more comfortable with <img style="vertical-align:middle" src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff" alt="Godot Engine Badge"> </p>
-        <p align="center"> </p>
+        <p align="left" style="text-indent: 30px;"> Aside from everything that is required as a part of my studies' curriculum I also like learning things in my free time. Currently working on aquiring knowledge in Python adjacent game engines like <img style="vertical-align:middle" src="assets/logos/logo_pygame.png" width="auto" height="40"> and <img style="vertical-align:middle" src="assets/logos/ursina_logo_wireframe.webp" width="40" height="40"> Ursina, <img style="vertical-align:middle" src="assets/logos/logo_openGL.png" width="auto" height="40"> including GLSL, modernGL, shading and rendering pipelines in general. I'm also slowly getting more comfortable with <img style="vertical-align:middle" src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff" alt="Godot Engine Badge"> </p>
+        <p align="center"> <br/></p>
     </tr>
     <tr>
-        <h3> 3. What are some things I can ask you about? 💬 </h3>
-        <p align="left" style="text-indent: 30px;"> </p>
+        <h3> 3. What are some things You can ask me about? 💬 </h3>
+        <p align="left" style="text-indent: 30px;">As someone with very long history with computer games I'm always interested in intricate conversations about them. Fantasy books, lore and fictional worlds are also great topic. Since I'm an "old timer" I deeply care about privacy, personal security and annonimity everywhere on the Internet and I know a fair bit of how to protect oneself from all kinds of overreach without going paranoid. I'm familiar with technology and emergent innovations, but I'm not a technophile. I love coming up with ideas in all spheres of life and solving complex problems, through smart use of technology with ethics in mind, even though many of them are currently a pipe dream. </p>
+        <h4 align="center"> <b><i>I'm a person of renaissance and generalist at heart.</b></i> </h4>
         <p align="center"> </p>
     </tr>
 </table>
-
-
-<!--
-<img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff" alt="Brave Badge">
-<img src="https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff" alt="uBlock Origin Badge">
-<img src="https://img.shields.io/badge/F--Droid-1976D2?logo=fdroid&logoColor=fff" alt="F-Droid Badge">
-
-<img src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff" alt="Signal Badge">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff" alt="Telegram Badge">
-
-
-
-- 💬 Ask me about: **Game design, privacy, security, complex problem solving.**
-- 📫 How to reach me? **You don't. (for now)**
-- 📄 About my experiences [TODO](TODO)
-- ⚡ Fun fact: **Everything exists due to sheer kinetic force of the past. We can't create anything new that is good, because merit is dead and compentency crysis reigns supreme in the name of the ideology that in the end will ruin all.**
-
-eccentric, info hazard
-<p>&nbsp;</p>
-
--->
