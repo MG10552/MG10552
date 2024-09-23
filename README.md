@@ -1,4 +1,4 @@
-<h1 align="center">Welcome / おはようございます / Witam / Здравствуйте</h1>
+<h1 align="center">Welcome / おはようございます / Witam / Здравствуйте / Velkominn / 안녕하세요 </h1>
 <!-- END OF SECTION #0 -->
 
 <table align="center" style="border: 0;padding: 0;margin: 0;border-spacing: 0; border-collapse: collapse;">
@@ -175,20 +175,31 @@
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge">
             <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff" alt="Discord Badge">
             <img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff" alt="LINE Badge"> </p>
+        <p align="center"> Sometimes You can also meet me around here: </p>
+        <p align="center">
+            <img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff" alt="YouTube Badge">
+            <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff" alt="Twitch Badge">
+            <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff" alt="4chan Badge"> </p>
+    </tr>
+    <tr>
+        <h3> 2. </h3>
+        <p align="left" style="text-indent: 30px;">  </p>
+        <p align="center">  </p>
+        <p align="center">
+            </p>
     </tr>
 </table>
+
 
 <!--
 <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff" alt="Brave Badge">
 <img src="https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff" alt="uBlock Origin Badge">
 <img src="https://img.shields.io/badge/F--Droid-1976D2?logo=fdroid&logoColor=fff" alt="F-Droid Badge">
 
-<img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff" alt="4chan Badge">
 <img src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff" alt="Signal Badge">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff" alt="Telegram Badge">
 
-<img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff" alt="YouTube Badge">
-<img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff" alt="Twitch Badge">
+
 
             
 - 🌱 I’m currently learning: **niche game engines**
@@ -197,9 +208,8 @@
 - 📫 How to reach me? **You don't. (for now)**
 - 📄 About my experiences [TODO](TODO)
 - ⚡ Fun fact: **Everything exists due to sheer kinetic force of the past. We can't create anything new that is good, because merit is dead and compentency crysis reigns supreme in the name of the ideology that in the end will ruin all.**
+
 eccentric, info hazard
 <p>&nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mg10552&show_icons=true&locale=en" alt="mg10552" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mg10552&theme=dark" alt="mg10552" /></p> 
-<p>&nbsp;</p> -->
+-->
