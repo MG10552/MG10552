@@ -87,7 +87,7 @@
         <!-- MIDDLE -->
         <td align="center" width="46%" style="vertical-align:top">
             <p align="center">
-                <img src="assets/virtuosa-arknights_ropes.png" style="object-fit: contain;"></p>
+                <img src="assets/fubukiConfusion.gif" style="object-fit: contain;"></p>
             <h3 align="center"><i>“In a time of deceit<br/>telling the truth is a revolutionary act.”</i><br/><h4> ― George Orwell </h4></h3>
             <br>
         </td>
@@ -167,7 +167,7 @@
         <h3 align="center"> Q & A </h3> 
     </tr>
     <tr>
-        <h3> 1. How to reach me: </h3>
+        <h3> 1. How to reach me? 📫 </h3>
         <p align="left" style="text-indent: 30px;"> I don't use social media. I prefer to stay private and communicate with people I care about directly. In the same time I understand necessity of online availability to strangers for inquiry and jobs. </p>
         <p align="center"> That being said here are some ways You can contact me: </p>
         <p align="center">
@@ -182,11 +182,9 @@
             <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff" alt="4chan Badge"> </p>
     </tr>
     <tr>
-        <h3> 2. </h3>
-        <p align="left" style="text-indent: 30px;">  </p>
-        <p align="center">  </p>
-        <p align="center">
-            </p>
+        <h3> 2. What am I currently learning? 🌱 </h3>
+        <p align="left" style="text-indent: 30px;"> Aside from everything that is required as a part of my studies' curriculum I also like learning things in my free time. Currently working on aquiring knowledge in Python adjacent game engines like <img style="vertical-align:middle" src="assets/logos/logo_pygame.png" width="auto" height="40"> and <img style="vertical-align:middle" src="assets/logos/ursina_logo_wireframe.webp" width="40" height="40"> Ursina, <img style="vertical-align:middle" src="assets/logos/logo_openGL.png" width="auto" height="40"> including GLSL, modernGL, shading and rendering pipelines in general. I'm also slowly getting more comfortable with <img style="vertical-align:middle" src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff" alt="Godot Engine Badge">.</p>
+        <p align="center"> </p>
     </tr>
 </table>
 
