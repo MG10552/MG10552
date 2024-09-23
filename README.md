@@ -183,7 +183,12 @@
     </tr>
     <tr>
         <h3> 2. What am I currently learning? 🌱 </h3>
-        <p align="left" style="text-indent: 30px;"> Aside from everything that is required as a part of my studies' curriculum I also like learning things in my free time. Currently working on aquiring knowledge in Python adjacent game engines like <img style="vertical-align:middle" src="assets/logos/logo_pygame.png" width="auto" height="40"> and <img style="vertical-align:middle" src="assets/logos/ursina_logo_wireframe.webp" width="40" height="40"> Ursina, <img style="vertical-align:middle" src="assets/logos/logo_openGL.png" width="auto" height="40"> including GLSL, modernGL, shading and rendering pipelines in general. I'm also slowly getting more comfortable with <img style="vertical-align:middle" src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff" alt="Godot Engine Badge">.</p>
+        <p align="left" style="text-indent: 30px;"> Aside from everything that is required as a part of my studies' curriculum I also like learning things in my free time. Currently working on aquiring knowledge in Python adjacent game engines like <img style="vertical-align:middle" src="assets/logos/logo_pygame.png" width="auto" height="40"> and <img style="vertical-align:middle" src="assets/logos/ursina_logo_wireframe.webp" width="40" height="40"> Ursina, <img style="vertical-align:middle" src="assets/logos/logo_openGL.png" width="auto" height="40"> including GLSL, modernGL, shading and rendering pipelines in general. <br/>I'm also slowly getting more comfortable with <img style="vertical-align:middle" src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff" alt="Godot Engine Badge"> </p>
+        <p align="center"> </p>
+    </tr>
+    <tr>
+        <h3> 3. What are some things I can ask you about? 💬 </h3>
+        <p align="left" style="text-indent: 30px;"> </p>
         <p align="center"> </p>
     </tr>
 </table>
@@ -199,9 +204,6 @@
 
 
 
-            
-- 🌱 I’m currently learning: **niche game engines**
-- 👨‍💻 All of my projects are available at: [right here, but later on]
 - 💬 Ask me about: **Game design, privacy, security, complex problem solving.**
 - 📫 How to reach me? **You don't. (for now)**
 - 📄 About my experiences [TODO](TODO)
