@@ -155,7 +155,7 @@
     <!-- FOOTER -->
     <tr align="center" width="100%">
         <td align="center" colspan="3">
-        <img src="assets/Sinscape_modernGL.png" alt="None" style="object-fit: contain;" width="auto" height="auto">
+        <img src="assets/Sinscape_modernGL.png" alt="None"  width="auto" height="auto" style="object-fit: contain;">
         <p align="right"> made with ModernGL & Python </p></td>
     </tr>
 </table>
@@ -210,7 +210,16 @@
     </tr>
     <tr>
         <h3> 6. What are my hobbies? 💭 </h3>
-        <p align="left" style="text-indent: 30px;text-align:justify;"> ... </p>
-        <p align="center"> </p>
+        <p align="left" style="text-indent: 30px;text-align:justify;">
+        <ul style="list-style-type:none;">
+            <li>First</li>
+            <li>Second</li>
+            <li>Third</li> </ul> </p>
+        <p align="center"> <br/></p>
+    </tr>
+    <tr>
+        <h3> 7. What kind of person am I? ⚡ </h3>
+        <p align="left" style="text-indent: 30px;text-align:justify;"> Well... it is difficult to be objective of oneself, but I will try. </p>
+        <p align="center"> <br/></p>
     </tr>
 </table>
