@@ -211,8 +211,8 @@
     <tr>
         <h3> 6. What are my hobbies? 💭 </h3>
         <p align="left" style="text-indent: 30px;text-align:justify;">
-        <ul style="list-style-type:none;">
-            <li>First</li>
+        <ul style="list-style-type:none;text-align:justify;">
+            <li>Games <ul><i>computer games</i> to be exact. I'm firm advocate of disambiguation of terms between platforms like PC, consoles and mobile of which the latter two I would classify as <i>"Video Games"</i> as their complexity has become synonymous with graphical fidelity in opposition to <i>"Computer Games"</i> which excel in gameplay and richness of systems department. I also do not like the term <i>"gamer"</i> as it creates unpleasant stereotype of mindless consumer of media created for mass-appeal with no long-term substance or life-long lessons players can take with them through good memories. I prefer terms like <i>"player"</i>, <i>"games enjoyer"</i>, <i>"a conneseur of iteractive arts"</i> (this one is a joke), someone usual, normal, with self control and restraint, adventurer with stoic mind. Nobody, that has to work through obstacles to prove their worth in the story when main hero is the fantastic/horrific/amazing world itself. You are more than welcome to disagree with my position. Heck! Let's talk about it. </ul></li>
             <li>Second</li>
             <li>Third</li> </ul> </p>
         <p align="center"> <br/></p>
