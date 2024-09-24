@@ -188,13 +188,19 @@
     </tr>
     <tr>
         <h3> 3. What are some things You can ask me about? 💬 </h3>
-        <p align="left" style="text-indent: 30px;">As someone with very long history with <b>computer games</b> I'm always interested in intricate conversations about them. <b>Books, lore, fictional worlds, worldbuilding</b> are also a great topic. Since I'm an "old timer" I deeply care about <b>privacy, personal security and annonimity</b> everywhere on the Internet and I know a fair bit of how to protect oneself from all kinds of overreach without going paranoid. I'm familiar with <b>technology and emergent innovations</b>, but I'm not a technophile. I love coming up with <b>ideas</b> in all spheres of life and <b>solving complex problems</b>, through smart use of technology with ethics in mind. Even though many of my ideas are currently a pipe dream for one reason or another. I'll gladly help with any of Your projects or at least provide <b>level-headed advice</b> to the best of my ability.</p>
+        <p align="left" style="text-indent: 30px;">As someone with very long history with <b>computer games</b> I'm always interested in intricate conversations about them on both conceptual and technical levels. <b>Technologies and tricks of audio-visual effects and animation</b> are also a great topic. Since I'm an "old timer" I deeply care about <b>privacy, personal security and annonimity</b> everywhere on the Internet and I know a fair bit of how to protect oneself from all kinds of overreach without going paranoid. I'm familiar with <b>technology and emergent innovations</b>, but I'm not a technophile. I love coming up with <b>ideas</b> in all spheres of life and <b>solving complex problems</b>, through smart use of technology with ethics in mind. Even though many of my ideas are currently a pipe dream for one reason or another. I'll gladly help with any of Your projects or at least provide <b>level-headed advice</b> to the best of my ability.</p>
         <h3 align="center"> <b><i>I'm a person of Renaissance and a generalist at heart.</b></i> </h3>
         <p align="center"> <br/></p>
     </tr>
     <tr>
         <h3> 4. What opportunies am I insterested in? 👨‍💻 </h3>
-        <p align="left" style="text-indent: 30px;"> Anything that has to do with making computer games - designing, testing, gameplay or tools programming, graphics programming, in-game maintaining (fe. multiplayer/MMO balance team), writing or worldbuilding... </p>
+        <p align="left" style="text-indent: 30px;"> Anything that has to do with making computer games - designing, testing, gameplay or tools programming, graphics programming, in-game maintaining (fe. multiplayer/MMO balance team), writing or worldbuilding; online media; UX and interaction systems design. </p>
+        <p align="center"> <br/></p>
+    </tr>
+    <tr>
+        <h3> 5. What is my experience? 📄 </h3>
+        <p align="left" style="text-indent: 30px;"> As far as main thing I would like to focus on in my professional career - making computer games - I've been playing countless amount of games across pretty much all genres my whole life. Among them my favourite one are definetly MMORPGs (Massively multiplayer online role-playing game) that I have been playing since the age of 7. Having this long term perspective on the "modern gaming" market allows me to see things people not well acquainted with games or new to the hobby lack by the long shot. Often attention to detail can make or break the product or undermine the project in the eyes of the customers. I want to make things right. I won't strain away from questioning and critisizing poorly made decisions and I will provide tangible and reasonable solutions that are also cost effective and fullfil greater context of any given game world. </p>
+        <p align="center">When it comes to my lived professional practice I'd like to refer You to my <img style="vertical-align:middle" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge"> profile or my Resume for further details. </p>
         <p align="center"> </p>
     </tr>
 </table>
