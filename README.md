@@ -212,9 +212,13 @@
         <h3> 6. What are my hobbies? 💭 </h3>
         <p align="left" style="text-indent: 30px;text-align:justify;">
         <ul style="list-style-type:none;text-align:justify;">
-            <li>Games <ul><i>computer games</i> to be exact. I'm firm advocate of disambiguation of terms between platforms like PC, consoles and mobile of which the latter two I would classify as <i>"Video Games"</i> as their complexity has become synonymous with graphical fidelity in opposition to <i>"Computer Games"</i> which excel in gameplay and richness of systems department. I also do not like the term <i>"gamer"</i> as it creates unpleasant stereotype of mindless consumer of media created for mass-appeal with no long-term substance or life-long lessons players can take with them through good memories. I prefer terms like <i>"player"</i>, <i>"games enjoyer"</i>, <i>"a conneseur of iteractive arts"</i> (this one is a joke), someone usual, normal, with self control and restraint, adventurer with stoic mind; a nobody, that has to work through obstacles to prove their worth in the story when main hero is the fantastic/horrific/amazing world itself. You are more than welcome to disagree with my position. Heck! Let's talk about it. </ul></li>
-            <li>Second</li>
-            <li>Third</li> </ul> </p>
+            <li><b>Games </b> 
+                <ul><i>computer games</i> to be exact. I'm firm advocate of disambiguation of terms between platforms like PC, consoles and mobile of which the latter two I would classify as <i>"Video Games"</i> as their complexity has become synonymous with graphical fidelity in opposition to <i>"Computer Games"</i> which excel in gameplay and richness of systems department. I also do not like the term <i>"gamer"</i> as it creates unpleasant stereotype of mindless consumer of media created for mass-appeal with no long-term substance or life-long lessons players can take with them through good memories. I prefer terms like <i>"player"</i>, <i>"games enjoyer"</i>, <i>"a conneseur of iteractive arts"</i> (this one is a joke), someone usual, normal, with self control and restraint, adventurer with stoic mind; a nobody, that has to work through obstacles to prove their worth in the story when main hero is the fantastic/horrific/amazing world itself. You are more than welcome to disagree with my position. Heck! Let's talk about it. </ul>
+                <ul align="center"><br/> Ok... but name like 5 favourite games... - Alright.</ul>
+                <ul align="center"><br/> <i>Lineage 2, Guild Wars 2, Aion: Tower of Eternity, The Elder Scrolls IV: Oblivion, Battlefield 4 </i></ul></li>
+            <li><br/><b>Modifying and customizing software </b>
+                <ul>... </ul></li>
+            <li><br/>Third</li> </ul> </p>
         <p align="left"> I support all and any kinds of gatekeeping necessary to hold integrity of any given hobby. Everyone is welcome to join, but only most devout and experienced of the members should have a say on what changes are implemented. Ignorance of so called "tourists" should be called out, counteracted accordingly and subversive individuals removed. </p>
         <p align="center"> <br/></p>
     </tr>
