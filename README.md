@@ -87,9 +87,10 @@
         <!-- MIDDLE -->
         <td align="center" width="46%" style="vertical-align:top">
             <p align="center">
-                <img src="assets/fubukiConfusion.gif" style="object-fit: contain;"></p>
+                <h6>
+                    <img src="assets/fubukiConfusion.gif" style="object-fit: contain;">Credit: ホロライブゲーマーズの白上フブキさん</h6></p>
             <h3 align="center"><i>“In a time of deceit<br/>telling the truth is a revolutionary act.”</i><br/><h4> ― George Orwell </h4></h3>
-            <br>
+            <br/>
         </td>
         <!-- RIGHT -->
         <td align="center" width="27%">
@@ -197,14 +198,19 @@
         <p align="topleft" style="text-indent: 30px;text-align:justify;"> Anything that has to do with making computer games - designing, testing, gameplay or tools programming, graphics programming, in-game maintaining (fe. multiplayer/MMO balance team), writing or worldbuilding; online media; UX and interaction systems design. </p>
         <p> <br/></p>
         <p align="center">
-            <img src="assets/L2_siegeOfDion.png" alt="Lineage 2 artwork" style="object-fit: contain;" width="80%" height="auto"> </p>
-            <p align="center"> One of my favourite "childhood" games is Korean MMORPG Lineage 2 made by NCSoft. </p>
+            <img src="assets/L2_siegeOfDion.png" alt="Lineage 2 artwork" style="object-fit: contain;" width="80%" height="auto"> 
+            <p align="center"> One of my favourite childhood games is Korean MMORPG Lineage 2 made by NCSoft. </p></p>
         <p align="center"> <br/></p>
     </tr>
     <tr>
         <h3> 5. What is my experience? 📄 </h3>
-        <p align="left" style="text-indent: 30px;text-align:justify;"> As far as main thing I would like to focus on in my professional career - making computer games - I've been playing countless amount of games across pretty much all genres my whole life. Among them my favourite one are definetly MMORPGs (Massively multiplayer online role-playing game) that I have been playing since the age of 7. Having this long term perspective on the "modern gaming" market allows me to see things people not well acquainted with games or new to the hobby lack by the long shot. Often attention to detail can make or break the product or undermine the project in the eyes of the customers. I want to make things right. I won't strain away from questioning and critisizing poorly made decisions and I will provide tangible and reasonable solutions that are also cost effective and fullfil greater context of any given game world. </p>
+        <p align="left" style="text-indent: 30px;text-align:justify;"> As far as main thing I would like to focus on in my professional career - making computer games - I've been playing countless amount of games across pretty much all genres my whole life. Among them my favourite one are definetly MMORPGs (Massively multiplayer online role-playing games) that I have been playing since the age of 7. Having this long term perspective on the "modern gaming" market allows me to see things people not well acquainted with games or new to the hobby lack by the long shot. Often attention to detail can make or break the product or undermine the project in the eyes of the customers. I want to make things right. I won't strain away from questioning and critisizing poorly made decisions and I will provide tangible and reasonable solutions that are also cost effective and fulfill greater context of any given game world. </p>
         <p align="left" style="text-align:justify;">When it comes to my lived professional practice I'd like to refer You to my <img style="vertical-align:middle" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge"> profile or my Resume for further details. </p>
+        <p align="center"> <br/></p>
+    </tr>
+    <tr>
+        <h3> 6. What are my hobbies? 💭 </h3>
+        <p align="left" style="text-indent: 30px;text-align:justify;"> ... </p>
         <p align="center"> </p>
     </tr>
 </table>
