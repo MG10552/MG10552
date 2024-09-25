@@ -198,13 +198,13 @@
         <p align="topleft" style="text-indent: 30px;text-align:justify;"> Anything that has to do with making computer games - designing, testing, gameplay or tools programming, graphics programming, in-game maintaining (fe. multiplayer/MMO balance team), writing or worldbuilding; online media; UX and interaction systems design. </p>
         <p> <br/></p>
         <p align="center">
-            <img src="assets/L2_siegeOfDion.png" alt="Lineage 2 artwork" style="object-fit: contain;" width="80%" height="auto"> 
-            <p align="center"> One of my favourite childhood games is Korean MMORPG Lineage 2 made by NCSoft. </p></p>
+            <h5 align="center"><img src="assets/L2_siegeOfDion.png" alt="Lineage 2 artwork" style="object-fit: contain;" width="80%" height="auto"> <br/>One of my favourite childhood games is Korean MMORPG Lineage 2 made by NCSoft. </h5></p>
         <p align="center"> <br/></p>
     </tr>
     <tr>
         <h3> 5. What is my experience? 📄 </h3>
-        <p align="left" style="text-indent: 30px;text-align:justify;"> As far as main thing I would like to focus on in my professional career - making computer games - I've been playing countless amount of games across pretty much all genres my whole life. Among them my favourite one are definetly MMORPGs (Massively multiplayer online role-playing games) that I have been playing since the age of 7. Having this long term perspective on the "modern gaming" market allows me to see things people not well acquainted with games or new to the hobby lack by the long shot. Often attention to detail can make or break the product or undermine the project in the eyes of the customers. I want to make things right. I won't strain away from questioning and critisizing poorly made decisions and I will provide tangible and reasonable solutions that are also cost effective and fulfill greater context of any given game world. </p>
+        <p align="left" style="text-indent: 30px;text-align:justify;"> As far as main thing I would like to focus on in my professional career - computer games - I've been playing countless amount of games across pretty much all genres my whole life. Among them my favourite one are definetly MMORPGs (Massively multiplayer online role-playing games) that I have been playing since the age of 7. Having this long term perspective on the "modern gaming" market allows me to see things people not well acquainted with games or new to the hobby lack by the long shot. Often attention to detail can make or break the product or undermine the project in the eyes of the customers. I want to make things right. I won't strain away from questioning and critisizing poorly made decisions and I will provide tangible and reasonable solutions that are also cost effective and fulfill greater context of any given game world. </p>
+        <p align="left" style="text-indent: 30px;text-align:justify;"> When it comes to making games I have completed multiple group projects with my colleagues ranging from online text-based web RPG in PHP, through Wing Commander clone in Blender's node-based game engine, Box2D golf game, several small World of Warcraft interface addons in Lua, macro chains and scripting for Elder Scrolls Online MinionMM-supported framework, ACT GUI overlay custom port for FFXIV, openCV mining bot for Albion Online, to Action Diablo/Path of Exile-style RPG in Unity, which was also a part of my Bachelor's Project. On top of that I have completed or actively am working on small solo projects like clones of classic arcade games from '80s and '90s, things like Street Fighter, Zelda, Mario, Stardew Valley, Pokemon, Castle Defense, physics based puzzle games etc.</p>
         <p align="left" style="text-align:justify;">When it comes to my lived professional practice I'd like to refer You to my <img style="vertical-align:middle" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge"> profile or my Resume for further details. </p>
         <p align="center"> <br/></p>
     </tr>
@@ -213,14 +213,52 @@
         <p align="left" style="text-indent: 30px;text-align:justify;">
         <ul style="list-style-type:none;text-align:justify;">
             <li><b>Games </b> 
-                <ul><i>computer games</i> to be exact. I'm firm advocate of disambiguation of terms between platforms like PC, consoles and mobile of which the latter two I would classify as <i>"Video Games"</i> as their complexity has become synonymous with graphical fidelity in opposition to <i>"Computer Games"</i> which excel in gameplay and richness of systems department. I also do not like the term <i>"gamer"</i> as it creates unpleasant stereotype of mindless consumer of media created for mass-appeal with no long-term substance or life-long lessons players can take with them through good memories. I prefer terms like <i>"player"</i>, <i>"games enjoyer"</i>, <i>"a conneseur of iteractive arts"</i> (this one is a joke), someone usual, normal, with self control and restraint, adventurer with stoic mind; a nobody, that has to work through obstacles to prove their worth in the story when main hero is the fantastic/horrific/amazing world itself. You are more than welcome to disagree with my position. Heck! Let's talk about it. </ul>
-                <ul align="center"><br/> Ok... but name like 5 favourite games... - Alright.</ul>
+                <ul><i>computer games</i> to be exact. I'm firm advocate of disambiguation of terms between platforms like PC, consoles and mobile of which the latter two I would classify as <i>"Video Games"</i> as their complexity has become synonymous with graphical fidelity in opposition to <i>"Computer Games"</i> which excel in gameplay and richness of systems department. I also do not like the term <i>"gamer"</i> as it creates unpleasant stereotype of mindless consumer of media created for mass-appeal with no long-term substance or life-long lessons players can take with them through good memories. I prefer terms like <i>"player"</i>, <i>"games enjoyer"</i>, <i>"a conneseur of iteractive arts"</i> (this one is a joke), someone usual, normal, with self control and restraint, adventurer with stoic mind; a nobody, that has to work through obstacles to prove their worth in the story where main hero is the fantastic/horrific/amazing world itself. You are more than welcome to disagree with my position. Heck! Let's talk about it. </ul>
+                <ul align="center"><br/> - Ok... but name some games that you like... - </ul>
                 <ul align="center"><br/> <i>Lineage 2, Guild Wars 2, Aion: Tower of Eternity, The Elder Scrolls IV: Oblivion, Battlefield 4 </i></ul></li>
             <br/>
             <li><b>Modifying and customizing software </b>
                 <ul>... </ul></li>
             <br/>
-            <li>Third</li> </ul> </p>
+            <li><b>Reading and books </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Cooking </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Gardening </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Art and composition <i>(also fashion in a roundabout way)</i></b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Niche music </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Foreign languages and cultures </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Space science and exploration </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Science in general <i>(as in scientific method, not dogma)</i></b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Small architecture and home construction </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Fitness and self improvement </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Martial arts and military </b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Animation enjoyment</b>
+                <ul>... </ul></li>
+            <br/>
+            <li><b>Vtubers and online content creation </b>
+                <ul>... </ul></li>
+            <br/> </p>
         <p align="left"> I support all and any kinds of gatekeeping necessary to hold integrity of any given hobby. Everyone is welcome to join, but only most devout and experienced of the members should have a say on what changes are implemented. Ignorance of so called "tourists" should be called out, counteracted accordingly and subversive individuals removed. </p>
         <p align="center"> <br/></p>
     </tr>
