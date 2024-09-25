@@ -195,7 +195,7 @@
     </tr>
     <tr>
         <h3> 4. What opportunies am I insterested in? 👨‍💻 </h3>
-        <p align="topleft" style="text-indent: 30px;text-align:justify;"> Anything that has to do with making computer games - designing, testing, gameplay or tools programming, graphics programming, in-game maintaining (fe. multiplayer/MMO balance team), writing or worldbuilding; online media; UX and interaction systems design. </p>
+        <p align="topleft" style="text-indent: 30px;text-align:justify;"> Anything that has to do with making computer games - designing, testing, gameplay or tools programming, graphics programming, in-game maintaining (fe. multiplayer/MMO balance team), writing or worldbuilding; online media; UX and interaction systems design. I'm also open to the idea of game business analysis and consulting roles. </p>
         <p> <br/></p>
         <p align="center">
             <h5 align="center"><img src="assets/L2_siegeOfDion.png" alt="Lineage 2 artwork" style="object-fit: contain;" width="80%" height="auto"> <br/>One of my favourite childhood games is Korean MMORPG Lineage 2 made by NCSoft. </h5></p>
@@ -218,7 +218,7 @@
                 <ul align="center"><br/> <i>Lineage 2, Guild Wars 2, Aion: Tower of Eternity, The Elder Scrolls IV: Oblivion, Battlefield 4 </i></ul></li>
             <br/>
             <li><b>Modifying and customizing software </b>
-                <ul>... </ul></li>
+                <ul>is my passion. I love modding games, creating my own version of interfaces, taking advantage of addon repositories to make games feel more "at home" more my style, unlocked hidden content and adding new elements that make them better. I also like to dip my fingers in writing custom shaders and tinkering with visual composition and presentation thanks to amazing tools like ReShade. If game can be changed, improved, fixed through community driven initiative I have and will continue to do so. Every game that have a modding scene has it's longevity at least doubled. Not to mention that having contact with so many talented individuals willing to put many many hours into non-profit project like this is really inspring. I learn so much from them. </ul></li>
             <br/>
             <li><b>Reading and books </b>
                 <ul>... </ul></li>
