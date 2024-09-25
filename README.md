@@ -218,10 +218,12 @@
                 <ul align="center"><br/> <i>Lineage 2, Guild Wars 2, Aion: Tower of Eternity, The Elder Scrolls IV: Oblivion, Battlefield 4 </i></ul></li>
             <br/>
             <li><b>Modifying and customizing software </b>
-                <ul>is my passion. I love modding games, creating my own version of interfaces, taking advantage of addon repositories to make games feel more "at home" more my style, unlocked hidden content and adding new elements that make them better. I also like to dip my fingers in writing custom shaders and tinkering with visual composition and presentation thanks to amazing tools like ReShade. If game can be changed, improved, fixed through community driven initiative I have and will continue to do so. Every game that have a modding scene has it's longevity at least doubled. Not to mention that having contact with so many talented individuals willing to put many many hours into non-profit project like this is really inspring. I learn so much from them. </ul></li>
+                <ul>is my passion. I love modding games, creating my own version of interfaces, taking advantage of addon repositories to make games feel more "at home" more my style, unlocking hidden content and adding new elements that make them better. I also like to dip my fingers in writing custom shaders and tinkering with visual composition and presentation thanks to amazing tools like ReShade. If game can be changed, improved, fixed through community driven initiative I have and will continue to do so. Every game that have a modding scene has it's longevity at least doubled. Not to mention that having contact with so many talented individuals willing to put many many hours into non-profit project like this is really inspring. I learn so much from them. </ul></li>
             <br/>
             <li><b>Reading and books </b>
                 <ul>... </ul></li>
+                <p align="center">
+                    <h5 align="center"><img src="" alt="" style="object-fit: contain;" width="auto" height="80%"> <br/>One of my favourite book series is Glen's Cook <i>Dread Empire</i>.</h5></p>
             <br/>
             <li><b>Cooking </b>
                 <ul>... </ul></li>
