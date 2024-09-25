@@ -180,6 +180,7 @@
         <p align="center">
             <img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff" alt="YouTube Badge">
             <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff" alt="Twitch Badge">
+            <img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff" alt="Steam Badge">
             <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff" alt="4chan Badge"> </p>
     </tr>
     <tr>
@@ -240,7 +241,7 @@
             <li><b>Foreign languages and cultures </b>
                 <ul>... </ul></li>
             <br/>
-            <li><b>Space science and exploration </b>
+            <li><b>Space exploration and science around it </b>
                 <ul>... </ul></li>
             <br/>
             <li><b>Science in general <i>(as in scientific method, not dogma)</i></b>
