@@ -227,7 +227,7 @@
                     <h5 align="center"><img src="assets/ChroniclesOfDreadEmpire_byGlenCook.webp" alt="dreadEmpire_GlenCook" style="object-fit: contain;" width="auto" height="400px"> <br/>One of my favourite book series is Glen Cook's <i>A Chronicle of the Dread Empire</i>.</h5></p>
             <br/>
             <li><b>Cooking </b>
-                <ul> is easy and fun. As a child I always liked helping in the kitchen and I was raised with principles of being independent so ability to feed myself and others is like a second nature to me. Thus, as long as you can bring me ingridients I can cook anything for you! I like samlipng new dishes, testing new techniques and equipment. I don't shy away from bizarre culinary experiments. Among all I probably enjoy baking cakes the most.  </ul></li>
+                <ul> is easy and fun. As a child I always liked helping in the kitchen. Both male and female members of my family are excellent cooks - no wonder I took after them. I was raised with principles of being independent so ability to feed myself and others is like a second nature to me. Thus, as long as you can bring me ingridients I can cook anything for you! I like samlipng new dishes, testing new techniques and equipment. I don't shy away from bizarre culinary experiments. Among all I probably enjoy baking cakes the most.  </ul></li>
             <br/>
             <li><b>Gardening </b>
                 <ul>is unexpected for sure. I maintain both house plants efficiently and small garden with edible plants like carrots, potatoes, tomatoes, strawberries, apples, plums or cherries. Spending at least some time in the nature is really great. On top of that having contact with physical labour that brings fruits I can enjoy throughout the year is quite satisfying. Thanks to the richness of my garden I can eat healthier and sweat away making preserves for the pantry which I can enjoy off season too. I also get some neighbours in form of numerous critters like lizards, snakes, ravens, crows, starlings and occasional family of stray cats. </ul></li>
@@ -268,6 +268,11 @@
     <tr>
         <h3> 7. What kind of person am I? ⚡ </h3>
         <p align="left" style="text-indent: 30px;text-align:justify;"> Well... it is difficult to be objective of oneself, but I will try. </p>
+        <p align="center"> <br/></p>
+    </tr>
+    <tr>
+        <h3> 8. Why did I bother with so much detail here on GitHub? ☄️ </h3>
+        <p align="left" style="text-indent: 30px;text-align:justify;"> Projects are not just computer code, spreadsheets, features and issue tracking. It's also people. And people like other people that are more like them. Having more in-depth information allows me to broaden the horizon and expand the limits of what kinds of people would like to associate with me by having many topics of mutual interest that will enhance our professional or more casual cooperation. Having fun together will make us a better team. </p>
         <p align="center"> <br/></p>
     </tr>
 </table>
