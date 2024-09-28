@@ -222,21 +222,64 @@
                 <ul>is my passion. I love modding games, creating my own versions of interfaces, taking advantage of addon repositories to make games feel more "at home" more my style, unlocking hidden content and adding new elements that make them better. I also like to dip my fingers in writing custom shaders and tinkering with visual composition and presentation thanks to amazing tools like ReShade. If game can be changed, improved, fixed through community driven initiative I have and will continue to do so. Every game that have a modding scene has it's longevity at least doubled. Not to mention that having contact with so many talented individuals willing to put many many hours into non-profit project like this is really inspring. I learn so much from them. On top of that I had my fair share of opportunities in playing around with hardware, fixing and troubleshooting physical devices, designing and building PC-class desktop workstations and setting up electronic devices like Arduino.</ul></li>
             <br/>
             <li><b>Reading and books </b>
-                <ul>are great! I have been reading fantasy and science-fiction books almost religiously even since I was a little kid. I'm fascinated by stories, mysterious unknown worlds, character development and their adventures. Worldbuilding of these adventures inspire me, feed my rich imagination and teach me things I would never expect I needed in life. I'm enamoured with writing of people like Glen Cooks, Trudi Canavan, Brent Weeks, George Orwell, Fyodor Dostoevsky, Yamamoto Tsunetomo, Aldous Huxley or Kentarō Miura. I love Berserk manga; I love Warhammer 40'000; it's lore books from Black Library catalogue and stories around horrific fate of future mankind and the Emperor are pure kino. I prefer my books in paper, physical objects that I can touch, smell and enjoy in my personal library every day. If I hunt for a title to add to my collection I will spare no expense or effort in getting it. </ul></li>
+                <ul>are great! I have been reading fantasy and science-fiction books almost religiously even since I was a little kid. I'm fascinated by stories, mysterious unknown worlds, character development and their adventures. Worldbuilding of these adventures inspire me, feed my rich imagination and teach me things I would never expect I needed in life. I'm enamoured with writing of people like Glen Cooks, Trudi Canavan, Brent Weeks, George Orwell, Fyodor Dostoevsky, Yamamoto Tsunetomo, Aldous Huxley or Kentarō Miura. I love Berserk manga; I love Warhammer 40'000; it's lore books from Black Library catalogue and stories around horrific fate of future mankind and the Emperor are pure kino. I prefer my books in paper, physical objects that I can touch, smell and enjoy in my personal library every day. If I hunt for a title to add to my collection I will spare no expense or effort in getting it. </ul>
                 <p align="center">
-                    <h5 align="center"><img src="assets/ChroniclesOfDreadEmpire_byGlenCook.webp" alt="dreadEmpire_GlenCook" style="object-fit: contain;" width="auto" height="400px"> <br/>One of my favourite book series is Glen Cook's <i>A Chronicle of the Dread Empire</i>.</h5></p>
+                    <h5 align="center"><img src="assets/ChroniclesOfDreadEmpire_byGlenCook.webp" alt="dreadEmpire_GlenCook" style="object-fit: contain;" width="auto" height="400px"> <br/>One of my favourite book series is Glen Cook's <i>A Chronicle of the Dread Empire</i>.</h5></p></li>
             <br/>
             <li><b>Cooking </b>
-                <ul> is easy and fun. As a child I always liked helping in the kitchen. Both male and female members of my family are excellent cooks - no wonder I took after them. I was raised with principles of being independent so ability to feed myself and others is like a second nature to me. Thus, as long as you can bring me ingridients I can cook anything for you! I like samlipng new dishes, testing new techniques and equipment. I don't shy away from bizarre culinary experiments. Among all I probably enjoy baking cakes the most.  </ul></li>
+                <ul>is easy and fun. As a child I always liked helping in the kitchen. Both male and female members of my family are excellent cooks - no wonder I took after them. I was raised with principles of being independent so ability to feed myself and others is like a second nature to me. Thus, as long as you can bring me ingridients I can cook anything for you! I like samlipng new dishes, testing new techniques and equipment. I don't shy away from bizarre culinary experiments. Among all I probably enjoy baking cakes the most.  </ul></li>
             <br/>
             <li><b>Gardening </b>
                 <ul>is unexpected for sure. I maintain both house plants efficiently and small garden with edible plants like carrots, potatoes, tomatoes, strawberries, apples, plums or cherries. Spending at least some time in the nature is really great. On top of that having contact with physical labour that brings fruits I can enjoy throughout the year is quite satisfying. Thanks to the richness of my garden I can eat healthier and sweat away making preserves for the pantry which I can enjoy off season too. I also get some neighbours in form of numerous critters like lizards, snakes, ravens, crows, starlings and occasional family of stray cats. </ul></li>
             <br/>
             <li><b>Art, photography and design</b>
-                <ul> even though I'm not an excellent artist by any means. I like drawing and creating 3D models, rigs, animations and set pieces in software like Blender or Unity. I also have good sense of composition and visual cohesion. I have strong imagination and can be very creative at times. For personal fashion I prefer elegant, but modest outfits with saturated natural colors in style of modernized '30s and business casual. I enjoy playing with appearance design for characters in games. I have an old SLR camera I made thousand of photographs with. Photography allows me to share my perspecive with others by immortalizing common situations in a unique, unexpected and natual way. I appreciate art of others and love learning from their expertise. I'm fascinated by both 2D and 3D animations, visual effects and lightworks. By the nature of their medium I consider both games and anime to be art. </ul></li>
+                <ul>even though I'm not an excellent artist by any means. I like drawing and creating 3D models, rigs, animations and set pieces in software like Blender or Unity. I also have good sense of composition and visual cohesion. I have strong imagination and can be very creative at times while in the same time I can plan my projects step-by-step with ease. For personal fashion I prefer elegant, but modest outfits with saturated natural colors in style of modernized '30s and business casual. I enjoy playing with appearance design for characters in games. I have an old SLR camera I made thousand of photographs with. Photography allows me to share my perspecive with others by immortalizing common situations in a unique, unexpected and natual way. I appreciate art of others and love learning from their expertise. I'm fascinated by both 2D and 3D animations, visual effects and lightworks. By the nature of their medium I consider both games and anime to be art. </ul></li>
             <br/>
             <li><b>Niche music </b>
-                <ul>... </ul></li>
+                <ul>and finding new artists is really nice. I go out of my way to seek unknown smaller artists that show their passion and craft through their works, to avoid modern corporate slop. There is something special in hearing original works that only maybe 300 people in the whole world heard about. Also supporting these artists is way more impactful as just a single individual. I like whole range of genres from '80s' electronic music, through 2000-and-10s rock, to ethnic music and vocaloid. I love discovering new stuff and listening to unusual often experimental things depending on the day, mood and humour. Here are some of my picks for this section: </ul>
+                <table border="0" align="center">
+                    <tr>
+                        <td align="right"> artcore </td> 
+                        <td> Taishi, Nhato, Onoken, Sakuzyo, Scythe of Luna </td></tr>
+                    <tr>
+                        <td align="right"> maidcore </td> 
+                        <td> Yakui the Maid (whole "[x] the maid" club) </td></tr>
+                    <tr>
+                        <td align="right"> metal </td> 
+                        <td> Ayunda of Absinthe Records Philippines, In Flames, <br/>Hammerfall, Beast in Black, Soulfly, Amon Amarth </td></tr>
+                    <tr>
+                        <td align="right"> electronic </td>
+                        <td> Voicians, Blue Stahli, Zardonic, Essenger </td></tr>
+                    <tr>
+                        <td align="right"> syncwave/retrowave </td>
+                        <td> The Midnight, The Muscle </td></tr>
+                    <tr>
+                        <td align="right"> citypop from the '80s </td>
+                        <td> Yukiko Okada, Akina Nakamori </td></tr>
+                    <tr>
+                        <td align="right"> Eurobeat </td>
+                        <td> Max Coveri, Dave Rodgers, Niko, ACE</td></tr>
+                    <tr>
+                        <td align="right"> vocaloid </td> 
+                        <td> Utsu-p, Mitchie M., Reol, <br/>Inabakumori, DECO*27, PinocchioP </td></tr>
+                    <tr>
+                        <td align="right"> Touhou Project </td>
+                        <td> Akatsuki Records, Demetori, Alstroemeria Records, <br/>UNDEAD CORPORATION, SOUND HOLIC </td></tr>
+                    <tr>
+                        <td align="right"> j-rock </td>
+                        <td> ELFENSJóN, Hiroyuki Sawano, Milli </td></tr>
+                    <tr>
+                        <td align="right"> j-jazz/hip-hop/vaporwave </td>
+                        <td> Haircuts for Men, Macroblank, Modest by Default, <br/>OSCOB, GODSPEED, slowerpace 音楽, Nujabes </td> </tr> 
+                    <tr>
+                        <td align="right"> ethnic </td>
+                        <td> Warduna, Heilung, Danheim, Myrkur, Eihwar </td></tr>
+                    <tr>
+                        <td align="right"> operas </td>
+                        <td> Clive Nolan </td></tr>
+                    <tr>
+                        <td align="right"> mix genre </td>
+                        <td> Vanguard Sound Studios, Yostar, RWBY collection, Lappy </td></tr> </table></li>
             <br/>
             <li><b>Foreign languages and cultures </b>
                 <ul>... </ul></li>
