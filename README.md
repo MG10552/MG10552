@@ -289,17 +289,14 @@
             <li style="text-indent: 30px;text-align:justify;"><b>Space exploration and practical realization of it </b>
                 <ul>is of great interest to me. Looking through the lens of sci-fiction space fascinated me from young age. It's endless expanse and limitless possibilities - the future of Mankind - gave me fuel for endless hours spent researching, reading about it and watching documentaries. Having limited subset of knowledge, I started developing my own theories about nature of things like black holes, dark matter and dark energy, reasons for existence of Boötes Void or Barnard 68 sector, conceptual energy sources and system scale constructions as well as, largely thanks to sci-fi, logic-based ideas what other species might look like or what kinds of technology they might possess. It's probably all a child's imagination making up things, but it’s certainly fun and engaging to think about things like that. All this indirectly led me to my Master's project which revolves around new generation of space suit helmets with inspired by games customizable HUD (<i>Heads-up Display</i>, graphical user interface) that will allow astronauts to personalize their workspace while participating in EVAs (<i>Extravehicular Activities</i>) aka Space Walks. I hope it would be possible to turn my project into reality one day. </ul></li>
             <br/>
-            <li><b>Science in general <i>(as in scientific method, not the dogma)</i></b>
-                <ul>... </ul></li>
+            <li><b>Science in general</b>
+                <ul><i>as in scientific method, not the dogma. </i> </ul></li>
             <br/>
             <li><b>Small architecture and home construction </b>
                 <ul>... </ul></li>
             <br/>
             <li><b>Fitness and self improvement </b>
-                <ul>... </ul></li>
-            <br/>
-            <li><b>Martial arts and military </b>
-                <ul>... </ul></li>
+                <ul>including martial arts and military. </ul></li>
             <br/>
             <li><b>Animation enjoyment</b>
                 <ul>... </ul></li>
