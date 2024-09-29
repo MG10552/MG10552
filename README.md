@@ -283,13 +283,13 @@
                         <td align="right"> mix genre </td>
                         <td> Vanguard Sound Studios, Yostar, RWBY collection, Lappy </td></tr> </table></li>
             <br/>
-            <li><b>Foreign languages and cultures </b>
+            <li><b>Foreign cultures and languages </b>
                 <ul>... </ul></li>
             <br/>
-            <li><b>Space exploration and science around it </b>
-                <ul>... </ul></li>
+            <li><b>Space exploration and practical realization of it </b>
+                <ul>is of great interest to me. Looking through the lens of sci-fiction space fascinated me from young age. It's endless expanse and limitless possiblities - the future of Mankind - gave me fuel for endless hours spent reasearching, reading about it and watching documentaries. Having limited subset of knowledge I started developing my own teories about nature of things like black holes, dark matter and dark energy, reasons for existance of Boötes Void or Barnard 68 sector, conceptual energy sources and system scale constructions as well as, largly thanks to sci-fi, logic-based ideas what other species might look like or what kinds of technology they might possess. It's probably all a child's imagination making up things, but it's certainly is fun and engaging to think about things like that. All of this indirectly lead me to my Master's project which revolves around new generation of space suit helmets with inspired by games customizable HUD (<i>Heads-up Display</i>, graphical user interface) that will allow astronauts to personalize their workspace while participating in EVAs (<i>Extravehicular Activities</i>) aka Space Walks. I hope it would be possible to turn my project into reality one day. </ul></li>
             <br/>
-            <li><b>Science in general <i>(as in scientific method, not dogma)</i></b>
+            <li><b>Science in general <i>(as in scientific method, not the dogma)</i></b>
                 <ul>... </ul></li>
             <br/>
             <li><b>Small architecture and home construction </b>
