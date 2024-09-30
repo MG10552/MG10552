@@ -218,7 +218,7 @@
                 <ul align="center"><br/> - Ok... but name some games that you like... - </ul>
                 <ul align="center"><br/> <i>Lineage 2, Guild Wars 2, Aion: Tower of Eternity, The Elder Scrolls IV: Oblivion, Battlefield 4, Ryse: Son of Rome </i></ul></li>
             <br/>
-            <li><b>Modifying and customizing software and hardware</b>
+            <li><b>Modifying and customizing software and hardware </b>
                 <ul>is my passion. I love modding games, creating my own versions of interfaces, taking advantage of addon repositories to make games feel more "at home" more my style, unlocking hidden content and adding new elements that make them better. I also like to dip my fingers in writing custom shaders and tinkering with visual composition and presentation thanks to amazing tools like ReShade. If game can be changed, improved, fixed through community driven initiative I have and will continue to do so. Every game that has a modding scene has its longevity at least doubled. Not to mention that having contact with so many talented individuals willing to put many many hours into non-profit project like this is really inspiring. I learn so much from them. On top of that I had my fair share of opportunities in playing around with hardware, fixing, and troubleshooting physical devices, designing, and building PC-class desktop workstations and setting up electronic devices like Arduino. </ul></li>
             <br/>
             <li><b>Reading and books </b>
@@ -232,7 +232,7 @@
             <li><b>Gardening </b>
                 <ul>is unexpected for sure. I maintain both house plants efficiently and small garden with edible plants like carrots, potatoes, tomatoes, strawberries, apples, plums, or cherries. Spending at least some time in the nature is great. On top of that having contact with physical labour that brings fruits I can enjoy throughout the year is quite satisfying. Thanks to the richness of my garden, I can eat healthier and sweat away making preserves for the pantry which I can enjoy off season too. I also get some neighbours in form of numerous critters like lizards, snakes, ravens, crows, starlings, and occasional family of stray cats. </ul></li>
             <br/>
-            <li><b>Art, photography and design</b>
+            <li><b>Art, photography and design </b>
                 <ul>even though I'm not an excellent artist by any means. I like drawing and creating 3D models, rigs, animations and set pieces in software like Blender or Unity. I also have good sense of composition and visual cohesion. I have strong imagination and can be very creative at times while at the same time I can plan my projects step-by-step with ease. For personal fashion I prefer elegant, but modest outfits with saturated natural colors in style of modernized '30s and business casual. I enjoy playing with appearance design for characters in games. I have an old SLR camera I made thousand of pictures with. Photography allows me to share my perspective with others by immortalizing common situations in a unique, unexpected, and natural way. I appreciate art of others and love learning from their expertise. I'm fascinated by both 2D and 3D animations, visual effects and lightworks. By the nature of their medium I consider both games and anime to be art. </ul>
                 <p align="center">
                     <h5 align="center"><img src="assets/materialMadeOfRubins.png" alt="rubyRoses" style="object-fit: contain;" width="auto" height="400px"> <br/>My poor attempt at making procedurally generated bouquet of flowers in Blender through build-in Python scripting.</h5></p></li>
@@ -291,19 +291,19 @@
                 <p align="center">
                     <h5 align="center"><img src="assets/ISS-36_EVA-3_Chris_Cassidy.jpg" alt="EVAexample" style="object-fit: contain;" width="auto" height="500px"> <br/>Example of EVA. Photograph taken by astronaut Chris Cassidy during the mission ISS-36 in 2013.</h5></p></li>
             <br/>
-            <li><b>Science in general</b>
+            <li style="text-indent: 30px;text-align:justify;"><b>Science in general </b>
                 <ul><i>as in scientific method, not the dogma. </i> </ul></li>
             <br/>
-            <li><b>Small architecture and home construction </b>
+            <li style="text-indent: 30px;text-align:justify;"><b>Small architecture and home construction </b>
                 <ul>... </ul></li>
             <br/>
-            <li><b>Fitness and self improvement </b>
+            <li style="text-indent: 30px;text-align:justify;"><b>Fitness and self improvement </b>
                 <ul>including martial arts and military. </ul></li>
             <br/>
-            <li><b>Animation enjoyment</b>
+            <li style="text-indent: 30px;text-align:justify;"><b>Animation enjoyment </b>
                 <ul>... </ul></li>
             <br/>
-            <li><b>Vtubers and online content creation </b>
+            <li style="text-indent: 30px;text-align:justify;"><b>Vtubers and online content creation </b>
                 <ul>... </ul></li>
             <br/> </p>
         <p align="left"> I support all and any kinds of gatekeeping necessary to hold integrity of any given hobby. Everyone is welcome to join, but only most devout and experienced of the members should have a say on what changes are implemented. Ignorance of so called "tourists" should be called out, counteracted accordingly and subversive individuals removed. </p>
