@@ -294,9 +294,6 @@
             <li style="text-indent: 30px;text-align:justify;"><b>Science in general </b>
                 <ul><i>as in scientific method, not the dogma. </i>Encountering concepts previously unknown is quite exciting and allow oneself to get lost in discovery and wonder. Constant flow of research papers, articles and findings lead to updates in the way we perceive the world and ourselves and is a fine game between chasing trends and deciding what parts of new discoveries are useful to us in our daily lives. Despite all of that, nothing is set in stone, things change as we acquire more knowledge and complete research. Thus, we need to take whole process with a grain of salt and fall into pit falls of dogmatic thinking. <i>"Question everything and everyone. Especially people You agree with."</i> If their propositions are legitimate, they will have receipts to show for it. Don't let ideology cloud your judgement, whatever it is. Science is a process, not a state. That's about it of me preaching. I like reading scientific papers, reports on new discoveries and watching documentaries. I enjoy figuring out and understanding novel ideas, by collecting obscure unfiltered and uncensored knowledge on variety of topics. </ul></li>
             <br/>
-            <li style="text-indent: 30px;text-align:justify;"><b>Small architecture and home construction </b>
-                <ul>... </ul></li>
-            <br/>
             <li style="text-indent: 30px;text-align:justify;"><b>Fitness and self improvement </b>
                 <ul>including martial arts and military. </ul></li>
             <br/>
