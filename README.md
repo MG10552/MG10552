@@ -239,49 +239,49 @@
             <br/>
             <li><details><summary><b>Niche music </b></summary>
                 <ul>and finding new artists is nice. I go out of my way to seek unknown smaller artists that show their passion and craft through their works, to avoid modern corporate slop. There is something special in hearing original works that only maybe 300 people in the whole world heard about. Also supporting these artists is way more impactful as just a single individual. I like whole range of genres from '80s' electronic music, through 2000-and-10s rock, to ethnic music and Vocaloid. I love discovering new stuff and listening to unusual often experimental things depending on the day, mood, and humour. Here are some creators I picked for this section: </ul>
-                <!--<table border="0" align="center"> --><div>
-                    <div align="center">
-                        <div> <u>artcore</u> </div> 
-                        <div> Taishi, Nhato, Onoken, Sakuzyo, Scythe of Luna </div></div></details>
-                    <tr>
-                        <td align="right"> maidcore </td> 
-                        <td> Yakui the Maid (whole "[x] the maid" club) </td></tr>
-                    <tr>
-                        <td align="right"> metal </td> 
-                        <td> Ayunda of Absinthe Records Philippines, In Flames, <br/>Hammerfall, Beast in Black, Soulfly, Amon Amarth </td></tr>
-                    <tr>
-                        <td align="right"> electronic </td>
-                        <td> Voicians, Blue Stahli, Zardonic, Essenger </td></tr>
-                    <tr>
-                        <td align="right"> syncwave/retrowave </td>
-                        <td> The Midnight, The Muscle </td></tr>
-                    <tr>
-                        <td align="right"> citypop from the '80s </td>
-                        <td> Yukiko Okada, Akina Nakamori </td></tr>
-                    <tr>
-                        <td align="right"> eurobeat </td>
-                        <td> Max Coveri, Dave Rodgers, Niko, ACE</td></tr>
-                    <tr>
-                        <td align="right"> vocaloid </td> 
-                        <td> Utsu-p, Mitchie M., Reol, <br/>Inabakumori, DECO*27, PinocchioP </td></tr>
-                    <tr>
-                        <td align="right"> Touhou Project </td>
-                        <td> Akatsuki Records, Demetori, Alstroemeria Records, <br/>UNDEAD CORPORATION, SOUND HOLIC </td></tr>
-                    <tr>
-                        <td align="right"> j-rock </td>
-                        <td> ELFENSJóN, Hiroyuki Sawano, Milli </td></tr>
-                    <tr>
-                        <td align="right"> jazz/hip-hop/vaporwave </td>
-                        <td> Haircuts for Men, Macroblank, Modest by Default, <br/>OSCOB, GODSPEED, slowerpace 音楽, Nujabes </td> </tr> 
-                    <tr>
-                        <td align="right"> ethnic </td>
-                        <td> Warduna, Heilung, Danheim, Myrkur, Eihwar </td></tr>
-                    <tr>
-                        <td align="right"> operas </td>
-                        <td> Clive Nolan </td></tr>
-                    <tr>
-                        <td align="right"> mix genre </td>
-                        <td> Vanguard Sound Studios, Yostar, RWBY collection, Lappy </td></tr> <!--</table>--></li> 
+                <!--<table border="0" align="center"> --><div align="center">
+                    <div>
+                        <div> <ins>artcore</ins> </div> 
+                        <div> Taishi, Nhato, Onoken, Sakuzyo, Scythe of Luna </div></div><br/>
+                    <div>
+                        <div> <ins>maidcore</ins> </div> 
+                        <div> Yakui the Maid (whole "[x] the maid" club) </div></div><br/>
+                    <div>
+                        <div> <ins>metal</ins> </div> 
+                        <div> Ayunda of Absinthe Records Philippines, In Flames, <br/>Hammerfall, Beast in Black, Soulfly, Amon Amarth </div></div><br/>
+                    <div>
+                        <div> <ins>electronic</ins> </div>
+                        <div> Voicians, Blue Stahli, Zardonic, Essenger </div></div><br/>
+                    <div>
+                        <div> <ins>syncwave/retrowave</ins> </div>
+                        <div> The Midnight, The Muscle </div></div><br/>
+                    <div>
+                        <div> <ins>citypop from the '80s</ins> </div>
+                        <div> Yukiko Okada, Akina Nakamori </div></div><br/>
+                    <div>
+                        <div> <ins>eurobeat</ins> </div>
+                        <div> Max Coveri, Dave Rodgers, Niko, ACE</div></div><br/>
+                    <div>
+                        <div> <ins>vocaloid</ins> </div> 
+                        <div> Utsu-p, Mitchie M., Reol, <br/>Inabakumori, DECO*27, PinocchioP </div></div><br/>
+                    <div>
+                        <div> <ins>Touhou Project</ins> </div>
+                        <div> Akatsuki Records, Demetori, Alstroemeria Records, <br/>UNDEAD CORPORATION, SOUND HOLIC </div></div><br/>
+                    <div>
+                        <div> <ins>j-rock</ins> </div>
+                        <div> ELFENSJóN, Hiroyuki Sawano, Milli </div></div><br/>
+                    <div>
+                        <div> <ins>jazz/hip-hop/vaporwave</ins> </div>
+                        <div> Haircuts for Men, Macroblank, Modest by Default, <br/>OSCOB, GODSPEED, slowerpace 音楽, Nujabes </div> </div> <br/>
+                    <div>
+                        <div> <ins>ethnic</ins> </div>
+                        <div> Warduna, Heilung, Danheim, Myrkur, Eihwar </div></div><br/>
+                    <div>
+                        <div> <ins>operas</ins> </div>
+                        <div> Clive Nolan </div></div><br/>
+                    <div>
+                        <div> <ins>mix genre</ins> </div>
+                        <div> Vanguard Sound Studios, Yostar, RWBY collection, Lappy </div></div><br/> <!--</table>--></details></li> 
             <br/>
             <li style="text-indent: 30px;text-align:justify;"><details><summary><b>Foreign cultures and languages </b></summary>
                 <ul>as well as folklore, mythology, and ancient history. Experiencing how people from different parts of the world and time think/thought is fascinating and to understand them better you need tools that will ease your journey into their minds. One of such tools is their language and their culture. Getting to know both opens many doors, whether it's learning new languages to communicate with natives or to surprise international friends; or going in-depth into customs and etiquette of people from distant and not-so-distant lands; or pondering on how people thought in the past and how their world view has shaped are just few of the keys for these doors. Learning new languages is easy for me.. I have my favourites cultures to deepen my knowledge about like: Japanese, Nordic-Viking, Slavic, Korean, Chinese, Roman, Protoeuropean, Innuit and Finnish. I can get along with international acquaintances quite well. My native tongue is <img style="vertical-align:middle" src="assets/flags/Flag_of_Poland.svg.webp" width="auto" height="15"> <b>Polish</b> the language of Poland, I know <img style="vertical-align:middle" src="assets/flags/Flag_of_Britania.svg.webp" width="auto" height="15"> <b>English</b> in professional capacity, I can speak beginner <img style="vertical-align:middle" src="assets/flags/Flag_of_Japan.svg.webp" width="auto" height="15"> <b>Japanese</b> and <img style="vertical-align:middle" src="assets/flags/Flag_of_Russia.svg.webp" width="auto" height="15"> <b>Russian</b>, I can say some things in <img style="vertical-align:middle" src="assets/flags/Flag_of_Roman_Latin.webp" width="auto" height="15"> <b>Latin</b>, <img style="vertical-align:middle" src="assets/flags/Flag_of_South_Korea.svg.webp" width="auto" height="15"> <b>Korean</b>, <img style="vertical-align:middle" src="assets/flags/Flag_of_Finland.svg.webp" width="auto" height="15"> <b>Finnish</b>, <img style="vertical-align:middle" src="assets/flags/Flag_of_Iceland.svg.webp" width="auto" height="15"> <b>Icelandic</b> and <b>general <img style="vertical-align:middle" src="assets/flags/Flag_of_Arab_League.webp" width="auto" height="15"> Arabic</b>. When it comes to folklore I love digging deep into different creatures and monsters and moral lessons they carry with them. </ul></li></details>
