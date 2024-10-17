@@ -211,17 +211,15 @@
     </tr>
     <tr>
         <h3> 6. What are my hobbies? 💭 </h3>
-        <details>
-        <summary>List of hobbies with short descriptions.</summary>
         <p align="left" style="text-indent: 30px;text-align:justify;">
         <ul style="list-style-type:none;text-align:justify;">
-            <li><b>Games </b> 
+            <li><details><summary><b>Games </b></summary>
                 <ul><i>computer games</i> to be exact. I'm firm advocate of disambiguation of terms between platforms like PC, consoles and mobile of which the latter two I would classify as <i>"Video Games"</i> as their complexity has become synonymous with graphical fidelity in opposition to <i>"Computer Games"</i> which excel in gameplay and richness of systems department. I also do not like the term <i>"gamer"</i> as it creates unpleasant stereotype of mindless consumer of media created for mass-appeal with no long-term substance or life-long lessons players can take with them through good memories. I prefer terms like <i>"player"</i>, <i>"games enjoyer"</i>, <i>"a connoisseur of interactive arts"</i> (this one is a joke), someone usual, normal, with self control and restraint, adventurer with stoic mind; a nobody, that has to work through obstacles to prove their worth in the story where main hero is the fantastic/horrific/amazing world itself. You are more than welcome to disagree with my position. Heck! Let's talk about it. </ul>
                 <ul align="center"><br/> - Ok... but name some games that you like... - </ul>
-                <ul align="center"><br/> <i>Lineage 2, Guild Wars 2, Aion: Tower of Eternity, The Elder Scrolls IV: Oblivion, Battlefield 4, Ryse: Son of Rome, Gothic series, Diggles: The Myth of Fenris </i></ul></li>
+                <ul align="center"><br/> <i>Lineage 2, Guild Wars 2, Aion: Tower of Eternity, The Elder Scrolls IV: Oblivion, Battlefield 4, Ryse: Son of Rome, Gothic series, Diggles: The Myth of Fenris </i></ul></li></details>
             <br/>
-            <li><b>Modifying and customizing software and hardware </b>
-                <ul>is my passion. I love modding games, creating my own versions of interfaces, taking advantage of addon repositories to make games feel more "at home" more my style, unlocking hidden content and adding new elements that make them better. I also like to dip my fingers in writing custom shaders and tinkering with visual composition and presentation thanks to amazing tools like ReShade. If game can be changed, improved, fixed through community driven initiative I have and will continue to do so. Every game that has a modding scene has its longevity at least doubled. Not to mention that having contact with so many talented individuals willing to put many many hours into non-profit project like this is really inspiring. I learn so much from them. On top of that I had my fair share of opportunities in playing around with hardware, fixing, and troubleshooting physical devices, designing, and building PC-class desktop workstations and setting up electronic devices like Arduino. </ul></li>
+            <li><details><summary><b>Modifying and customizing software and hardware </b></summary>
+                <ul>is my passion. I love modding games, creating my own versions of interfaces, taking advantage of addon repositories to make games feel more "at home" more my style, unlocking hidden content and adding new elements that make them better. I also like to dip my fingers in writing custom shaders and tinkering with visual composition and presentation thanks to amazing tools like ReShade. If game can be changed, improved, fixed through community driven initiative I have and will continue to do so. Every game that has a modding scene has its longevity at least doubled. Not to mention that having contact with so many talented individuals willing to put many many hours into non-profit project like this is really inspiring. I learn so much from them. On top of that I had my fair share of opportunities in playing around with hardware, fixing, and troubleshooting physical devices, designing, and building PC-class desktop workstations and setting up electronic devices like Arduino. </ul></li></details>
             <br/>
             <li><b>Reading and books </b>
                 <ul>are great! I have been reading fantasy and science-fiction books almost religiously even since I was a little kid. I'm fascinated by stories, mysterious unknown worlds, character development and their adventures. Worldbuilding of these adventures inspire me, feed my rich imagination, and teach me things I would never expect I needed in life. I'm enamoured with writing of people like Glen Cooks, Trudi Canavan, Brent Weeks, George Orwell, Fyodor Dostoevsky, Yamamoto Tsunetomo, Aldous Huxley or Kentarō Miura. I love Berserk manga; I love Warhammer 40'000; it's lore books from Black Library catalogue and stories around horrific fate of future mankind and the Emperor are pure kino. I prefer my books in paper, physical objects that I can touch, smell, and enjoy in my personal library every day. If I hunt for a title to add to my collection, I will spare no expense or effort in getting it. </ul>
@@ -308,7 +306,7 @@
                 <ul>... </ul></li>
             <br/> </p>
         <p align="left"> I support all and any kinds of gatekeeping necessary to hold integrity of any given hobby. Everyone is welcome to join, but only most devout and experienced of the members should have a say on what changes are implemented. Ignorance of so called "tourists" should be called out, counteracted accordingly and subversive individuals removed. </p>
-        <p align="center"> <br/></p></details>
+        <p align="center"> <br/></p>
     </tr>
     <tr>
         <h3> 7. What kind of person am I? ⚡ </h3>
