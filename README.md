@@ -211,6 +211,8 @@
     </tr>
     <tr>
         <h3> 6. What are my hobbies? 💭 </h3>
+        <details>
+        <summary>List of hobbies with short descriptions.</summary>
         <p align="left" style="text-indent: 30px;text-align:justify;">
         <ul style="list-style-type:none;text-align:justify;">
             <li><b>Games </b> 
@@ -306,7 +308,7 @@
                 <ul>... </ul></li>
             <br/> </p>
         <p align="left"> I support all and any kinds of gatekeeping necessary to hold integrity of any given hobby. Everyone is welcome to join, but only most devout and experienced of the members should have a say on what changes are implemented. Ignorance of so called "tourists" should be called out, counteracted accordingly and subversive individuals removed. </p>
-        <p align="center"> <br/></p>
+        <p align="center"> <br/></p></details>
     </tr>
     <tr>
         <h3> 7. What kind of person am I? ⚡ </h3>
